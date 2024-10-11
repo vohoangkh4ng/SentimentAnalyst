@@ -1,4 +1,4 @@
-# Sentiment Analysis Report
+# Sentiment Analysis in Banking
 
 ## Introduction
 This project applies Sentiment Analysis to assess customer perceptions of banking services. The dataset was collected from customer reviews of banks in India, with the goal of understanding customer satisfaction and sentiment trends.
