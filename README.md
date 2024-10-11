@@ -30,10 +30,9 @@ This project applies Sentiment Analysis to assess customer perceptions of bankin
 An interactive demo interface built with **Gradio** allows users to input text and receive instant sentiment predictions based on the Logistic Regression model.
 
 ## Repository Contents
-- `data/`: Folder containing the dataset used in the project.
-- `notebooks/`: Jupyter notebooks with data preprocessing, analysis, and model training code.
-- `models/`: Saved model files for Logistic Regression, Random Forest, and CatBoost.
-- `app.py`: Gradio app script for the interactive sentiment analysis demo.
+- `bank_reviews3.csv`: Folder containing the dataset used in the project.
+- `sentiment_notebook.ipynb/`: Jupyter notebooks with data preprocessing, analysis, and model training code.
+- `report_sentiment.docx`: Report of project.
 - `README.md`: Project overview and instructions (this file).
 
 ---
